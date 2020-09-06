@@ -1,3 +1,3 @@
 # Text-based-Tetris
 
-Wrote a multi-class C++ program using recursion, inheritance, and the standard template library that implements a version of the classic tetris game with special pieces.  
+Built multi-class C++ version of Tetris with custom pieces, using recursion, inheritance, and Standard Template Library.
